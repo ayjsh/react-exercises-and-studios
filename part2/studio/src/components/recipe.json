@@ -1,18 +1,19 @@
 [
-   {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
-     ]
-   }
+   
+  {
+    "name": "The Best Salted Chocolate Chip Cookies",
+    "author": "Kate Wood",
+    "description": "Naming anything as 'the best' is usually a tall order and lots of 'best ever' cookies have been around the block. With so many cookie recipes on the block, did we really need another one? Turns out, the answer is YES.",
+    "website": "https://thewoodandspoon.com/the-best-salted-chocolate-chip-cookies/",
+    "recipeImage": "https://thewoodandspoon.com/wp-content/uploads/2022/08/IMG_7757-768x1024.jpg",
+    "authorImage": "https://thewoodandspoon.com/wp-content/uploads/2020/01/Headshot_1500x1490@2x-768x763.png",
+    "ingredients": [
+      "1 cup unsalted butter, at room temperature",
+      "½ cup sugar",
+      "1–1/2 cups light brown sugar, packed",
+      "2 large eggs",
+      "2 teaspoons pure vanilla extract"
+    ]
+  }
  ]
  
